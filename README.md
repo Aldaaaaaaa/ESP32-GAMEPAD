@@ -37,7 +37,7 @@
 
 <sub>viz. foto:</sub>
 
-![IMG_8128](https://github.com/vojtamm69/gamepad-esp32/assets/169904042/edcd2e02-ba7c-4030-afa5-d9733aefbe63)
+![JOYSTICK](https://github.com/Aldaaaaaaa/ESP32-GAMEPAD/assets/170012616/e347ee8d-a419-4ae2-8829-d32af1d5d0c1)
 
 
 

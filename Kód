@@ -69,7 +69,7 @@
  GamepadModes gamepadMode = ANDROID;
   
   
- BleGamepad bleGamepad("Maker101 Gamepad", "Maker101 Home");
+ BleGamepad bleGamepad("Maker101 Gamepad", "Maker101 Home");  //Pojmenovaní si gamepadu
   
  BleGamepadConfiguration bleGamepadConfig;  
   

@@ -26,7 +26,7 @@
 	
  ![TLACITKA](https://github.com/Aldaaaaaaa/ESP32-GAMEPAD/assets/170012616/21047784-ff6b-43e4-84f2-8fc94fe3ccf2)
 
-## **2.** Zapojíme k levé nožičce tlačítek drátek s libovolným PINY (v našem případě: Zelená - G26, Červená - G25, Žlutá - G33, Modrá - G32) a nakonec u ESP napojíme **GND** do (-) a **3V3** do (+)
+## **2.** Zapojení k levé nožičce tlačítek s libovolným PINY (v našem případě: Zelená - G26, Červená - G25, Žlutá - G33, Modrá - G32) a nakonec u ESP napojíme **GND** do (-) a **3V3** do (+)
 
 <sub>viz. foto:</sub>
 

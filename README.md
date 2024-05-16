@@ -20,7 +20,7 @@
   
 *Zapojení:*
     
-1. Do nepájivého pole dáme 4 tlačítka a propojíme pravé nožičky tlačítek s (-) a levé s (+) (použijeme k tomu resistory, ale necháme si mezi tlačítkem a resistorem minimálně 1 pin mezeru)
+1. Do nepájivého pole dáme 4 tlačítka a propojíme pravé nožičky tlačítek s (-) a levé s (+) (potom do - zapojime GND a do + 3v3 aby vše fungovalo)
 
 <sub>viz. foto:</sub>
 	

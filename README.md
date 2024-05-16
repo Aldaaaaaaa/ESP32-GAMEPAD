@@ -44,7 +44,8 @@
 ### Finální produkt vypadá nějak takto:
 
 
-![IMG_8129](https://github.com/vojtamm69/gamepad-esp32/assets/169904042/d5f031df-9cab-44cd-abb3-8e7825c00aca)
+![CELY PROJEKT](https://github.com/Aldaaaaaaa/ESP32-GAMEPAD/assets/170012616/737a2224-fc5c-4d7f-83d7-fbe50db9a0ac)
+
 
 ### Po složení stačí dát tento kód do [Arduino IDE](https://www.arduino.cc/en/software), uploadnout a spustit
 

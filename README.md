@@ -24,7 +24,7 @@
 
 <sub>viz. foto:</sub>
 	
- ![IMG_8123](https://github.com/vojtamm69/gamepad-esp32/assets/169904042/2c9ac677-fc14-47c8-8a6a-17d20fab8c5b)
+ ![TLACITKA](https://github.com/Aldaaaaaaa/ESP32-GAMEPAD/assets/170012616/21047784-ff6b-43e4-84f2-8fc94fe3ccf2)
 
 2. Zapojíme k levé nožičce tlačítek drátek s libovolným GPIO (v našem případě: Zelená - G26, Červená - G25, Žlutá - G33, Modrá - G32) a nakonec u ESP napojíme **GND** do (-) a **3V3** do (+)
 

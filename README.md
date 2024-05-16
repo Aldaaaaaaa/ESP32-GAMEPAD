@@ -46,13 +46,11 @@
 
 ![CELY PROJEKT](https://github.com/Aldaaaaaaa/ESP32-GAMEPAD/assets/170012616/737a2224-fc5c-4d7f-83d7-fbe50db9a0ac)
 
-### Před uploadnutim kódu je potřeba stáhnout knihovnu BLE Gamepad: 
-![image](https://github.com/vojtamm69/gamepad-esp32/assets/169904042/d0045388-b5fc-4c4d-957b-8fa14dd30e42)
 
 ## Poté stačí dát  kód do [Arduino IDE](https://www.arduino.cc/en/software)
 
 ### Před uploadnutim kódu je potřeba stáhnout knihovnu BLE Gamepad: 
-![image](https://github.com/vojtamm69/gamepad-esp32/assets/169904042/d0045388-b5fc-4c4d-957b-8fa14dd30e42)
+![KNIHOVNAAA](https://github.com/Aldaaaaaaa/ESP32-GAMEPAD/assets/170012616/d080be79-55c4-4ea3-803c-ebe0c89b5582)
 
 - Gamepad funguje s aplikacemi které podporují PS kontroler jako například Asphalt 8
 

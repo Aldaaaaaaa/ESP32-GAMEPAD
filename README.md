@@ -26,14 +26,14 @@
 	
  ![TLACITKA](https://github.com/Aldaaaaaaa/ESP32-GAMEPAD/assets/170012616/21047784-ff6b-43e4-84f2-8fc94fe3ccf2)
 
-## **2.** Zapojení levé nožičky tlačítek s PINY (Zelená - G26, Červená - G25, Žlutá - G33, Modrá - G32) a u ESP napojení **GND** do (-) a **3V3** do (+)
+# **2.** Zapojení levé nožičky tlačítek s PINY (Zelená - G26, Červená - G25, Žlutá - G33, Modrá - G32) a u ESP napojení **GND** do (-) a **3V3** do (+)
 
 <sub>viz. foto:</sub>
 
  ![TLACITKA PLUS ESP](https://github.com/Aldaaaaaaa/ESP32-GAMEPAD/assets/170012616/3e3c941c-41ad-49da-a1a5-01d5fd7468b8)
 
 
-## **3.** Poslední krok je zapojení joysticku zapomocí **samic**  (X do G34, Y do G35, GND do - (GND) a VCC do +(3V3) )
+# **3.** Poslední krok je zapojení joysticku zapomocí **samic**  (X do G34, Y do G35, GND do - (GND) a VCC do +(3V3) )
 
 <sub>viz. foto:</sub>
 
@@ -41,7 +41,7 @@
 
 
 
-## **Hotový projekt:**
+# **Hotový projekt:**
 
 
 ![CELY PROJEKT](https://github.com/Aldaaaaaaa/ESP32-GAMEPAD/assets/170012616/737a2224-fc5c-4d7f-83d7-fbe50db9a0ac)
@@ -49,7 +49,7 @@
 
 ## Poté stačí dát  kód do [Arduino IDE](https://www.arduino.cc/en/software)
 
-### Před uploadnutim kódu je potřeba stáhnout knihovnu BLE Gamepad: 
+## Před uploadnutim kódu je potřeba stáhnout knihovnu BLE Gamepad: 
 ![KNIHOVNAAA](https://github.com/Aldaaaaaaa/ESP32-GAMEPAD/assets/170012616/d080be79-55c4-4ea3-803c-ebe0c89b5582)
 
 - Gamepad funguje s aplikacemi které podporují PS kontroler jako například Asphalt 8

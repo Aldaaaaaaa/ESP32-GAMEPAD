@@ -41,7 +41,7 @@
 
 
 
-### Finální produkt vypadá nějak takto:
+## **Finální produkt vypadá nějak takto:**
 
 
 ![CELY PROJEKT](https://github.com/Aldaaaaaaa/ESP32-GAMEPAD/assets/170012616/737a2224-fc5c-4d7f-83d7-fbe50db9a0ac)

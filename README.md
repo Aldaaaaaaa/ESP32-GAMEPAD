@@ -20,13 +20,13 @@
   
 # **POSTUP**
 
-## **1.** Do nepájivého pole dáme 4 tlačítka a propojíme pravé nožičky tlačítek s (-) a levé s (+) (potom do - zapojime GND a do + 3v3 aby vše fungovalo)
+## **1.** Do nepájivého pole dáme 4 tlačítka a zapojíme pravé nožičky tlačítek do *-* a levé do *+*
 
 <sub>viz. foto:</sub>
 	
  ![TLACITKA](https://github.com/Aldaaaaaaa/ESP32-GAMEPAD/assets/170012616/21047784-ff6b-43e4-84f2-8fc94fe3ccf2)
 
-## **2.** Zapojení levé nožičky tlačítek s PINY (Zelená - G26, Červená - G25, Žlutá - G33, Modrá - G32) a nakonec u ESP napojíme **GND** do (-) a **3V3** do (+)
+## **2.** Zapojení levé nožičky tlačítek s PINY (Zelená - G26, Červená - G25, Žlutá - G33, Modrá - G32) a u ESP napojení **GND** do (-) a **3V3** do (+)
 
 <sub>viz. foto:</sub>
 

@@ -1,5 +1,5 @@
 # ***ESP32 GAMEPAD***
-# **Jak postavit gamepad?**
+
 
 
 

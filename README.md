@@ -30,7 +30,7 @@
 
 <sub>viz. foto:</sub>
 
- ![TLACITKA PLUS ESP](https://github.com/Aldaaaaaaa/ESP32-GAMEPAD/assets/170012616/3e3c941c-41ad-49da-a1a5-01d5fd7468b8)
+![tlacitka a esp](https://github.com/Aldaaaaaaa/ESP32-GAMEPAD/assets/170012616/5a03ef0b-583b-4272-a161-6e6bc32fa1f8)
 
 
 # **3.** Poslední krok je zapojení joysticku zapomocí **samic**  (X do G34, Y do G35, GND do - (GND) a VCC do +(3V3) )

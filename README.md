@@ -20,7 +20,7 @@
   
 # **POSTUP**
 
-## **1.** Zapojení tlačítek do nepájivého pole (pravé nožičky tlačítek do **-** a levé do **+**)
+# **1.** Zapojení tlačítek do nepájivého pole (pravé nožičky tlačítek do **-** a levé do **+**)
 
 <sub>viz. foto:</sub>
 	

@@ -20,20 +20,20 @@
   
 *Zapojení:*
     
-***1.*** Do nepájivého pole dáme 4 tlačítka a propojíme pravé nožičky tlačítek s (-) a levé s (+) (potom do - zapojime GND a do + 3v3 aby vše fungovalo)
+**1.** Do nepájivého pole dáme 4 tlačítka a propojíme pravé nožičky tlačítek s (-) a levé s (+) (potom do - zapojime GND a do + 3v3 aby vše fungovalo)
 
 <sub>viz. foto:</sub>
 	
  ![TLACITKA](https://github.com/Aldaaaaaaa/ESP32-GAMEPAD/assets/170012616/21047784-ff6b-43e4-84f2-8fc94fe3ccf2)
 
-****2.**** Zapojíme k levé nožičce tlačítek drátek s libovolným GPIO (v našem případě: Zelená - G26, Červená - G25, Žlutá - G33, Modrá - G32) a nakonec u ESP napojíme **GND** do (-) a **3V3** do (+)
+**2.** Zapojíme k levé nožičce tlačítek drátek s libovolným GPIO (v našem případě: Zelená - G26, Červená - G25, Žlutá - G33, Modrá - G32) a nakonec u ESP napojíme **GND** do (-) a **3V3** do (+)
 
 <sub>viz. foto:</sub>
 
  ![TLACITKA PLUS ESP](https://github.com/Aldaaaaaaa/ESP32-GAMEPAD/assets/170012616/3e3c941c-41ad-49da-a1a5-01d5fd7468b8)
 
 
-3. Nakonec zapojíme pomocí **samic** Joystick (X do G34, Y do G35, GND do (-) a VCC do (+) )
+**3.** Nakonec zapojíme pomocí **samic** Joystick (X do G34, Y do G35, GND do (-) a VCC do (+) )
 
 <sub>viz. foto:</sub>
 

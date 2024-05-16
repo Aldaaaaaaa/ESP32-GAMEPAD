@@ -47,7 +47,7 @@
 ![CELY PROJEKT](https://github.com/Aldaaaaaaa/ESP32-GAMEPAD/assets/170012616/737a2224-fc5c-4d7f-83d7-fbe50db9a0ac)
 
 
-### Po složení stačí dát tento kód do [Arduino IDE](https://www.arduino.cc/en/software), uploadnout a spustit
+### Po složení stačí dát  kód do [Arduino IDE](https://www.arduino.cc/en/software), uploadnout a spustit
 
 - Gamepad funguje s Asphalt 8 a ostatními hrami
 - Výsvětlivky jsou v **kódu**
@@ -59,4 +59,5 @@
 
 
 
-<sub>[Zdroj a inspirace](https://www.instructables.com/DIY-ESP32-Bluetooth-GamePad-for-Android-PlayStatio/)</sub>
+<sub>[1.Zdroj a inspirace](https://www.instructables.com/DIY-ESP32-Bluetooth-GamePad-for-Android-PlayStatio/)</sub>
+<sub>[2.Zdroj a inspirace](https://https://www.youtube.com/watch?v=zOuCZpH0Dqg)</sub>

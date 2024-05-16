@@ -20,7 +20,7 @@
   
 # **POSTUP**
 
-## **1.** Do nepájivého pole dáme 4 tlačítka a zapojíme pravé nožičky tlačítek do *-* a levé do *+*
+## **1.** Zapojení tlačítek do nepájivého pole (pravé nožičky tlačítek do - a levé do +)
 
 <sub>viz. foto:</sub>
 	

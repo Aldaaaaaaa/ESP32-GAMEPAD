@@ -33,7 +33,7 @@
  ![TLACITKA PLUS ESP](https://github.com/Aldaaaaaaa/ESP32-GAMEPAD/assets/170012616/3e3c941c-41ad-49da-a1a5-01d5fd7468b8)
 
 
-## **3.** Nakonec zapojíme pomocí **samic** Joystick (X do G34, Y do G35, GND do (-) a VCC do (+) )
+## **3.** Poslední krok je zapojení joysticku zapomocí **samic**  (X do G34, Y do G35, GND do - (GND) a VCC do +(3V3) )
 
 <sub>viz. foto:</sub>
 
@@ -41,16 +41,15 @@
 
 
 
-## **Finální produkt vypadá nějak takto:**
+## **Finální produkt: **
 
 
 ![CELY PROJEKT](https://github.com/Aldaaaaaaa/ESP32-GAMEPAD/assets/170012616/737a2224-fc5c-4d7f-83d7-fbe50db9a0ac)
 
 
-## Po složení stačí dát  kód do [Arduino IDE](https://www.arduino.cc/en/software), uploadnout a spustit
+## Po složení stačí dát  kód do [Arduino IDE](https://www.arduino.cc/en/software), uploadnout do ESP a spustit
 
-- Gamepad funguje s aplikacemi které podporují PS kontroler jako napriklad Asphalt 8
-- Výsvětlivky jsou v **kódu**
+- Gamepad funguje s aplikacemi které podporují PS kontroler jako například Asphalt 8
 
 ### Pro kód je potřeba pouze knihovna BLE Gamepad: 
 ![KNIHOVNAAA](https://github.com/Aldaaaaaaa/ESP32-GAMEPAD/assets/170012616/2f8eb846-c033-45f6-b799-09c7705987b7)

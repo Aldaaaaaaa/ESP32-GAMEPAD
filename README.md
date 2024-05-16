@@ -44,7 +44,7 @@
 # **Hotový projekt:**
 
 
-![CELY PROJEKT](https://github.com/Aldaaaaaaa/ESP32-GAMEPAD/assets/170012616/737a2224-fc5c-4d7f-83d7-fbe50db9a0ac=250x250)
+![CELY PROJEKT](https://github.com/Aldaaaaaaa/ESP32-GAMEPAD/assets/170012616/737a2224-fc5c-4d7f-83d7-fbe50db9a0ac | height=100)
 
 
 ## Poté stačí dát  kód do [Arduino IDE](https://www.arduino.cc/en/software) a stáhnout knihovnu BLE Gamepad

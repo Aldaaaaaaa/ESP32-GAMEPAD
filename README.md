@@ -37,7 +37,8 @@
 
 <sub>viz. foto:</sub>
 
-![JOYSTICK](https://github.com/Aldaaaaaaa/ESP32-GAMEPAD/assets/170012616/e347ee8d-a419-4ae2-8829-d32af1d5d0c1)
+![JOYSTICK222](https://github.com/Aldaaaaaaa/ESP32-GAMEPAD/assets/170012616/f19add8b-1371-415e-aedb-0623c0159e6c)
+
 
 
 

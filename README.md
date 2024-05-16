@@ -18,8 +18,8 @@
 - 1x **[Nepájivé pole](https://dratek.cz/arduino/121755-nepajive-pole-750-pinu.html?_gl=1*1jdeqs*_up*MQ..&gclid=CjwKCAjwupGyBhBBEiwA0UcqaH6J5DjgpT64NVNzaj-crNZk7CDaJllbJJJvBpg1rio_UimbY8WeMBoCJT8QAvD_BwE)**
 	
   
-# *POSTUP*
-    
+# **POSTUP**
+
 **1.** Do nepájivého pole dáme 4 tlačítka a propojíme pravé nožičky tlačítek s (-) a levé s (+) (potom do - zapojime GND a do + 3v3 aby vše fungovalo)
 
 <sub>viz. foto:</sub>

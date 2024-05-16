@@ -8,7 +8,7 @@
 
 ### Návod:
 
-  *Na gamepad potřebujeme:*
+  *Komponenty pro gamepad:*
   
 - 1x [**ESP32**](https://dratek.cz/arduino/1581-esp-32s-esp32-esp8266-development-board-2.4ghz-dual-mode-wifi-bluetooth-antenna-module.html?_gl=1*s3cekh*_up*MQ..&gclid=CjwKCAjwupGyBhBBEiwA0UcqaH6J5DjgpT64NVNzaj-crNZk7CDaJllbJJJvBpg1rio_UimbY8WeMBoCJT8QAvD_BwE)
 - 1x [**Joystick s měřením analogové hodnoty X a Y**](https://dratek.cz/arduino/884-joystick-ps2.html?gad_source=1&gclid=CjwKCAjwupGyBhBBEiwA0UcqaH6J5DjgpT64NVNzaj-crNZk7CDaJllbJJJvBpg1rio_UimbY8WeMBoCJT8QAvD_BwE) 

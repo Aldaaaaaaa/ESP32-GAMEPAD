@@ -53,9 +53,7 @@
 - Výsvětlivky jsou v **kódu**
 
 ### Pro kód je potřeba pouze knihovna BLE Gamepad: 
-![image](![KNIHOVNA](https://github.com/Aldaaaaaaa/ESP32-GAMEPAD/assets/170012616/36d59eab-98ac-429c-bd81-9365c43aa6c2))
-
- 
+![KNIHOVNAAA](https://github.com/Aldaaaaaaa/ESP32-GAMEPAD/assets/170012616/2f8eb846-c033-45f6-b799-09c7705987b7)
 
 
 

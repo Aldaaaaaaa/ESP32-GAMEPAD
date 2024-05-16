@@ -54,8 +54,5 @@
 - Gamepad funguje s aplikacemi které podporují PS kontroler jako například Asphalt 8
 
 
-
-
-
 <sub>[1.Zdroj a inspirace](https://www.instructables.com/DIY-ESP32-Bluetooth-GamePad-for-Android-PlayStatio/)</sub>
 <sub>[2.Zdroj a inspirace](https://www.youtube.com/watch?v=zOuCZpH0Dqg)</sub>

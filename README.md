@@ -47,7 +47,7 @@
 ![CELY PROJEKT](https://github.com/Aldaaaaaaa/ESP32-GAMEPAD/assets/170012616/737a2224-fc5c-4d7f-83d7-fbe50db9a0ac)
 
 
-### Po složení stačí dát  kód do [Arduino IDE](https://www.arduino.cc/en/software), uploadnout a spustit
+## Po složení stačí dát  kód do [Arduino IDE](https://www.arduino.cc/en/software), uploadnout a spustit
 
 - Gamepad funguje s aplikacemi které podporují PS kontroler jako napriklad Asphalt 8
 - Výsvětlivky jsou v **kódu**

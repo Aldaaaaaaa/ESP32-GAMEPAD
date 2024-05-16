@@ -20,7 +20,7 @@
   
 *Zapojení:*
     
-1. Doprostřed nepájivého pole dáme 4 tlačítka libovolných barev a propojíme pravé nožičky tlačítek s (-) a levé s (+) (použijeme k tomu resistory, ale necháme si mezi tlačítkem a resistorem minimálně 1 pin mezeru)
+1. Do nepájivého pole dáme 4 tlačítka a propojíme pravé nožičky tlačítek s (-) a levé s (+) (použijeme k tomu resistory, ale necháme si mezi tlačítkem a resistorem minimálně 1 pin mezeru)
 
 <sub>viz. foto:</sub>
 	

@@ -24,7 +24,7 @@
 
 <sub>viz. foto:</sub>
 	
- ![TLACITKA](https://github.com/Aldaaaaaaa/ESP32-GAMEPAD/assets/170012616/21047784-ff6b-43e4-84f2-8fc94fe3ccf2)
+![ZAPOJENI TLACITEK](https://github.com/Aldaaaaaaa/ESP32-GAMEPAD/assets/170012616/673f655d-6d1d-4a5c-8fc1-4722c93829a9)
 
 # **2.** Zapojení levé nožičky tlačítek s PINY (Zelená - G26, Červená - G25, Žlutá - G33, Modrá - G32) a u ESP napojení **GND** do (-) a **3V3** do (+)
 

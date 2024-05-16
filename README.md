@@ -49,7 +49,7 @@
 
 ### Po složení stačí dát  kód do [Arduino IDE](https://www.arduino.cc/en/software), uploadnout a spustit
 
-- Gamepad funguje s Asphalt 8 a ostatními hrami
+- Gamepad funguje s aplikacemi které podporují PS kontroler jako napriklad Asphalt 8
 - Výsvětlivky jsou v **kódu**
 
 ### Pro kód je potřeba pouze knihovna BLE Gamepad: 
